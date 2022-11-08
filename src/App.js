@@ -37,7 +37,7 @@ function App() {
             display: "flex",
             padding: "20px",
             justifyContent: "center",
-            position: "fixed",
+            
           }}
         >
           <input onChange={handleChange} type="text" />
