@@ -41,7 +41,7 @@ function App() {
           }}
         >
           <input onChange={handleChange} type="text" />
-          <Button onClick={handleClick}>Search</Button>
+          <Button onClick={handleClick} placeholder="enter topic">Search</Button>
         </div>
 
         <div
